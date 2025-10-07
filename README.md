@@ -1,16 +1,17 @@
-## Hi there 👋
+## 🕵| Game hacking and cyber security
 
-<!--
-**fuckingyourlife/fuckingyourlife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Main Languages
 
-Here are some ideas to get you started:
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fuckingyourlife&show_icons=true&theme=dark&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fuckingyourlife&layout=compact&theme=dark)
+
+### 📩 Contact me
+[![](https://img.shields.io/badge/Discord-anjimdead-5865F2?style=flat&logo=discord)](https://discord.com/users/688833518620508160)
+
+> *"Desde menor sou o mais esforçado…"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=fuckingyourlife)
