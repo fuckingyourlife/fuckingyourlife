@@ -10,7 +10,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fuckingyourlife&layout=compact&theme=dark)
 
 ### 📩 Contact me
-[![](https://img.shields.io/badge/Discord-anjimdead-5865F2?style=flat&logo=discord)](https://discord.com/users/688833518620508160)
+[![](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/688833518620508160)
 
 > *"Desde menor sou o mais esforçado…"*
 
