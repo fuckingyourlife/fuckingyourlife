@@ -1,6 +1,6 @@
 ## 🕵| Game hacking and cyber security
 
-### 🔧 Main Languages
+### 🔧 Main Skills
 
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
@@ -12,6 +12,6 @@
 ### 📩 Contact me
 [![](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/688833518620508160)
 
-> *"Desde menor sou o mais esforçado…"*
+> *"Your time is limited, so don’t waste it living someone else’s life."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fuckingyourlife)
